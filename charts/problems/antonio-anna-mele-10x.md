@@ -2,7 +2,7 @@
 title: "An automated conference / research field that finds compelling quantum applications"
 proposer: "Antonio Anna Mele"
 status: idea
-verifier: ""
+verifier: "Independently check the quantum cost and compare it with a strong classical baseline for the same task and assumptions."
 group: ""
 source: pre-read
 ---
@@ -13,11 +13,11 @@ Proposed by [Antonio Anna Mele](../../attendees/antonio-anna-mele.md) in the pre
 
 ## Problem and how we would know it is solved
 
-Automated conference/resaerch field! Find compelling quantum applications.
+I’d simulate a research field by running a conference of AI agents. They would propose, critique, and refine ideas for quantum applications. I’d call it a success if they found a new application with a precise problem and a quantum advantage we can verify against a strong classical baseline.
 
 ## Verifier
 
-_Sharpen this: what check, run by whom or what, says it is solved? Then copy a one-line version into the `verifier` field above._
+An independent reader should be able to verify the quantum cost and compare it with a strong classical method under the same assumptions about input access, accuracy, and success probability. For an experimental claim, provide a reproducible benchmark and specify the regime it covers.
 
 ## Notes and interest
 
