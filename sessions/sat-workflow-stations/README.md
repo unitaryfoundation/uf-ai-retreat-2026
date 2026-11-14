@@ -8,7 +8,7 @@ One write-up per station at `<host-first-last>.md`, from [`templates/station.md`
 
 | Host | Demo | Write-up |
 |---|---|---|
-| [Mathys Rennela](../../attendees/mathys-rennela.md) | Code discovery workflow | |
+| [Mathys Rennela](../../attendees/mathys-rennela.md) | Code discovery workflow | [notes](mathys-rennela.md) |
 | [Mingyu Kang](../../attendees/mingyu-kang.md) | Solving quantum problems with multi-agent systems | [notes](mingyu-kang.md) |
 | [Victor Galitski](../../attendees/victor-galitski.md) | Customized research workflow | |
 | [Andi Gu](../../attendees/andi-gu.md) | AI-assisted research workflows | [notes](andi-gu.md) |
