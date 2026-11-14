@@ -24,8 +24,8 @@ All times local (US Eastern). Main room is the Guggenheim Pavilion; meals are at
 | 10:40–11:00 | Break | | | |
 | 11:00–12:00 | Walk-and-talk | Across campus | Assigned cross-cluster trios. Prompt: what problem would you attack with ten times the throughput, and what is the verifier? Bad-weather fallback: lounges, porch, by the fire. | [`sessions/sat-walk-and-talk/`](../sessions/sat-walk-and-talk/) |
 | 12:30–1:45 | Lunch | The Pub | | |
-| 1:45–2:30 | Pitches and group formation | Guggenheim Pavilion | Unconference style. Two minutes at the flipcharts. A pitch needs more than one person plus agents, names a verifier, and can be structured as easily as a research problem. | [`sessions/sat-pitches/`](../sessions/sat-pitches/), [`groups/`](../groups/) |
-| 2:30–3:00 | Break | | | |
+| 1:45–2:45 | Pitches and group formation | Guggenheim Pavilion | Unconference style. Two minutes at the flipcharts. A pitch needs more than one person plus agents, names a verifier, and can be structured as easily as a research problem. | [`sessions/sat-pitches/`](../sessions/sat-pitches/), [`groups/`](../groups/) |
+| 2:45–3:00 | Break | | | |
 | 3:00–4:15 | Failure autopsies | Guggenheim Pavilion | Your worst AI moment of the year. Three minutes each, standing, always ending on: how did you catch it? | [`sessions/sat-failure-autopsies/`](../sessions/sat-failure-autopsies/) |
 | 4:15–6:30 | Open time | Across campus | Everyone is welcome to come to Stonecrop for s'mores, beer, and wine! | |
 | 6:30–8:00 | Dinner | The Pub | | |
