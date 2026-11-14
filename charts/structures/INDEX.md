@@ -2,8 +2,9 @@
 
 # Structures we'd want
 
-1 entries.
+2 entries.
 
 | Entry | Proposer | Verifier | Status | Group |
 |---|---|---|---|---|
 | [Where should formally proven quantum information results live?](home-for-formal-quantum-information-results.md) | William Zeng | A new QI result is merged or registered, passes Comparator, and its definitions are reused by a second result from a different group | idea |  |
+| [Add frame width to the objective for good codes in the UF QEC challenge](qec-challenge-frame-width-objective.md) | Jong Yeon Lee | The QEC challenge scores frame width alongside distance and check weight, and top-ranked codes have low-weight logical bases | idea |  |
