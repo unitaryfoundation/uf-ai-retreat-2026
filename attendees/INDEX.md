@@ -2,7 +2,7 @@
 
 # Attendees
 
-26 people.
+27 people.
 
 | Name | Affiliation | Background | GitHub |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ben Castanon](ben-castanon.md) | Unitary Foundation |  |  |
 | [Cody Moy](cody-moy.md) | Unitary Foundation |  |  |
 | [Daniel Tan](daniel-tan.md) | Harvard / QuEra | Postdoc at Lukin lab, Harvard and consulting scientist at QuEra. I work on circuit design and atom shuttling compilation for QEC on neutral atom arrays. |  |
+| [Dantong Li](dantong-li.md) | Yale University | Computer Science Ph.D. student at Yale. | @dtlics |
 | [Diyi Liu](diyi-liu.md) | LBNL |  |  |
 | [Farrokh Labib](farrokh-labib.md) | Unitary Foundation | Member of technical staff at UF; interested in working on anything related to quantum computing. |  |
 | [Henry Yuen](henry-yuen.md) | Columbia University |  |  |

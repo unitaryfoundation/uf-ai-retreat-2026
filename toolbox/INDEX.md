@@ -2,7 +2,8 @@
 
 # Toolbox
 
-0 reusable things.
+1 reusable things.
 
 | Thing | Owner | What it is |
 |---|---|---|
+| [research-investigator](dantong-li/research-investigator/) | dantong-li | A reusable skill for organizing long-running mathematics and theoretical computer science research with a team of agents, independent reviews, and an explicit record of checked results. |
