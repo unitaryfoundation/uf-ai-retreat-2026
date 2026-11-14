@@ -2,7 +2,7 @@
 name: "Daniel Tan"
 affiliation: "Harvard / QuEra"
 role: attendee
-github: ""
+github: "qu-tan-um"
 website: "https://www.linkedin.com/in/daniel-bochen-tan/"
 background: "Postdoc at Lukin lab, Harvard and consulting scientist at QuEra. I work on circuit design and atom shuttling compilation for QEC on neutral atom arrays."
 source: pre-read
