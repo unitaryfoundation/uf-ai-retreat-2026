@@ -5,7 +5,7 @@ host: "Mingyu Kang"
 
 # Mingyu Kang's station: agent orchestrators and governance schemes
 
-Station hosted by [Mingyu Kang](../../attendees/mingyu-kang.md). His pre-read demo offer was "solving quantum problems with multi-agent systems". **How this note was made:** Will Zeng, who was in the rotating group, relayed the notes, and Claude wrote them up. Add details of the setup below.
+Station hosted by [Mingyu Kang](../../attendees/mingyu-kang.md). Their pre-read demo offer was "solving quantum problems with multi-agent systems". **How this note was made:** Will Zeng, who was in the rotating group, relayed the notes, and Claude wrote them up. Add details of the setup below.
 
 ## Setup
 
