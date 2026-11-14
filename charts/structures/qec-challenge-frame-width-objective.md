@@ -9,7 +9,7 @@ group: ""
 
 # Add frame width to the objective for good codes in the UF QEC challenge
 
-Idea from [Jong Yeon Lee](../../attendees/jong-yeon-lee.md), relayed by Will Zeng and written up by Claude.
+Idea from [Jong Yeon Lee](../../attendees/jong-yeon-lee.md), raised at [Mathys Rennela](../../attendees/mathys-rennela.md)'s workflow station on Saturday morning. Will Zeng relayed it and Claude wrote it up.
 
 ## What it is
 
