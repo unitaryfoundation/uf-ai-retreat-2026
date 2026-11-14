@@ -9,7 +9,7 @@
 - Ben Castanon
 
 **Group C**
-- Victor Galitski
+- Mingyu Kang
 - Daniel Tan
 - Victor V. Albert
 - Farrokh Labib
@@ -21,7 +21,7 @@
 - Steven Flammia
 
 **Group E**
-- Mingyu Kang
+- Victor Galitski
 - Alexander Schmidhuber
 - William Zeng
 
