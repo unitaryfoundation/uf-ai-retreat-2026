@@ -1,7 +1,8 @@
 **Group A**
 - Andi Gu
 - Yichen Huang
-- Jong Yeon Lee
+- Victor V. Albert
+- Mathys Rennela
 
 **Group B**
 - Patrick Shafto
@@ -11,24 +12,19 @@
 **Group C**
 - Mingyu Kang
 - Daniel Tan
-- Victor V. Albert
-- Farrokh Labib
+- Jong Yeon Lee
+- Uri Kol
 
 **Group D**
 - Pradeep Niroula
 - Diyi Liu
 - Yongshan Ding
-- Steven Flammia
 
 **Group E**
 - Victor Galitski
 - Alexander Schmidhuber
 - William Zeng
 
-**Group F**
-- Antonio Anna Mele
-- Uri Kol
-- Mathys Rennela
 
 
 
