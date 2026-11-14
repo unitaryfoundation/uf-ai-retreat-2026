@@ -2,12 +2,13 @@
 
 # Problems worth 10x
 
-11 entries.
+12 entries.
 
 | Entry | Proposer | Verifier | Status | Group |
 |---|---|---|---|---|
 | [Automated quantum algorithms discovery](alexander-schmidhuber-10x.md) | Alexander Schmidhuber |  | idea |  |
 | [An automated conference / research field that finds compelling quantum applications](antonio-anna-mele-10x.md) | Antonio Anna Mele |  | idea |  |
+| [Better interfaces for AI-assisted conceptual research](better-uis-for-conceptual-research.md) | William Zeng | Open: how to evaluate interfaces for work with no scalar objective is part of the question | idea |  |
 | [A somewhat AI-automatic quantum computing lab](daniel-tan-10x.md) | Daniel Tan |  | idea |  |
 | [Find the best possible QEC code for each device topology and size](farrokh-labib-10x.md) | Farrokh Labib |  | idea |  |
 | [An agentic blueprint for formalizing quantum constructions in category/type theory](mathys-rennela-10x.md) | Mathys Rennela |  | idea |  |
