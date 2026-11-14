@@ -2,7 +2,8 @@
 
 # Structures we'd want
 
-0 entries.
+1 entries.
 
 | Entry | Proposer | Verifier | Status | Group |
 |---|---|---|---|---|
+| [Where should formally proven quantum information results live?](home-for-formal-quantum-information-results.md) | William Zeng | A new QI result is merged or registered, passes Comparator, and its definitions are reused by a second result from a different group | idea |  |
