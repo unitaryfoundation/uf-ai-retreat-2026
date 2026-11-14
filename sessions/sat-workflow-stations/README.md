@@ -4,12 +4,13 @@ Five hosts at tables with their terminal, repo, agent harness and prompt library
 
 One write-up per station at `<host-first-last>.md`, from [`templates/station.md`](../../templates/station.md). Link to anything the host has in [`toolbox/`](../../toolbox/).
 
-## Candidate hosts from the pre-read demo offers
+## Hosts
 
-| Host | Offered demo |
-|---|---|
-| [Mathys Rennela](../../attendees/mathys-rennela.md) | Code discovery workflow |
-| [Mingyu Kang](../../attendees/mingyu-kang.md) | Solving quantum problems with multi-agent systems |
-| [Victor Galitski](../../attendees/victor-galitski.md) | Customized research workflow |
+| Host | Demo | Write-up |
+|---|---|---|
+| [Mathys Rennela](../../attendees/mathys-rennela.md) | Code discovery workflow | |
+| [Mingyu Kang](../../attendees/mingyu-kang.md) | Solving quantum problems with multi-agent systems | [notes](mingyu-kang.md) |
+| [Victor Galitski](../../attendees/victor-galitski.md) | Customized research workflow | |
+| [Andi Gu](../../attendees/andi-gu.md) | AI-assisted research workflows | [notes](andi-gu.md) |
 
-Three offers so far; five stations are needed. The final line-up will be recorded here.
+Mathys, Mingyu and Victor offered demos in the pre-read; Andi Gu was added on Saturday. One more host is needed to make five.
